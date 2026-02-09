@@ -24,8 +24,8 @@ An application created in Eclipse (not Android Studio). The user must guess the 
 
 ## Скриншоты
 При загрузке приложения, интерфейс приложения будет выглядеть вот так:
-![Главный экран](interface.png)
+![Главный экран](screenshots/interface.png)
 Тут процесс угадывания чисел
-![Процесс](work.png)
+![Процесс](screenshots/work.png)
 Результат проверки числа
-![Результат](end.png)
+![Результат](screenshots/end.png)
