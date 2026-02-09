@@ -1,5 +1,9 @@
 # GuessNumber
 An application created in Eclipse (not Android Studio). The user must guess the number the application has chosen. / Приложение созданное на EclipseНе на Android Studio). Пользователь должен будет угадывать какое число загадал приложение.
+
+# Техническое описание
+В данном коде и в приложении используются jre1.8.0, java7 и android sdk 19.0.0.
+
 # Приложение "Угадай число" (Android)
 
 Лабораторная работа по основам разработки мобильных приложений в среде Android IDE.
@@ -19,3 +23,9 @@ An application created in Eclipse (not Android Studio). The user must guess the 
 * `res/values/` — ресурсы строк и стилей.
 
 ## Скриншоты
+При загрузке приложения, интерфейс приложения будет выглядеть вот так:
+![Главный экран](interface.png)
+Тут процесс угадывания чисел
+![Процесс](work.png)
+Результат проверки числа
+![Результат](end.png)
