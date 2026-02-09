@@ -1,5 +1,5 @@
 # GuessNumber
-An application created in Eclipse. The user must guess the number the application has chosen. / Приложение созданное на Eclipse. Пользователь должен будет угадывать какое число загадал приложение.
+An application created in Eclipse (not Android Studio). The user must guess the number the application has chosen. / Приложение созданное на EclipseНе на Android Studio). Пользователь должен будет угадывать какое число загадал приложение.
 # Приложение "Угадай число" (Android)
 
 Лабораторная работа по основам разработки мобильных приложений в среде Android IDE.
