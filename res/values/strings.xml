@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="action_settings">Настройки</string>
+    <string name="try_to_guess">Попробуйте угадать число от 0 до 5</string>
+    <string name="ahead">Много!</string>
+    <string name="behind">Мало!</string>
+    <string name="hit">Угадали!</string>
+    <string name="play_more">Еще раз?</string>
+    <string name="input_value">Проверить</string>
+</resources>
